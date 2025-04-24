@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#color-pad {
+  height: 20rem;
+  width: 20rem;
+  background-color: #000;
+  margin: 20rem auto;
+}
+
+#color-btn {
+  padding: 0.5rem 1rem;
+  margin: 5vh auto 0 auto;
+  display: block;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+#color {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 1.125rem;
+  font-weight: 800;
+}
